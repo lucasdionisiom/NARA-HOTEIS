@@ -1,0 +1,3 @@
+*.csv
+*.venv
+#para não subir para o repositório.
